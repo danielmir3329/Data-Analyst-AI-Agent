@@ -5,7 +5,7 @@
 This project demonstrates how to build a lightweight AI-assisted data analysis pipeline using Python and the OpenAI API.
 
 Instead of sending the full dataset to the AI model, the system generates a structured metadata summary (schema, statistics, missing values, etc.) and sends only that summary for analysis. This approach:
-
+ 
 - Reduces token usage  
 - Improves performance  
 - Minimizes unnecessary data exposure  
